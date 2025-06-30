@@ -41,7 +41,6 @@
 - 📧 Email: [sreeharshitha1189@gmail.com](mailto:sreeharshitha1189@gmail.com)
 - 🌐 GitHub: [github.com/harshitha1189](https://github.com/harshitha1189)
 - 💼 LinkedIn: [linkedin.com/in/nallisriharshitha](https://www.linkedin.com/in/nallisriharshitha)
-- 📱 Phone: `+91-7396571855` *(optional — remove if not comfortable)*
 
 ---
 
