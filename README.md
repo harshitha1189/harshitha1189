@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nalli Sri Harshitha 👋</h1>
+<h1 align="center">Hi there, I'm Sri Harshitha 👋</h1>
 
 <p align="center">
   <b>💻 Developer | 📊 Data Enthusiast | 🎯 ECE Student</b><br>
