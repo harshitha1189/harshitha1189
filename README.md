@@ -17,7 +17,8 @@
 ---
 
 ### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,express,mongodb,tailwind,django,streamlit,git,github)
+![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,express,mongodb,tailwind,django,git,github)
+
 
 ---
 
