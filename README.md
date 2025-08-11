@@ -26,7 +26,7 @@
 - 🔗 [Mass Mail Dispatcher](https://github.com/harshitha1189/Mass-Mail-Dispatcher) — Send bulk emails with CSV import, validations, and live UI.
 - 🔗 [RAG-P](https://github.com/harshitha1189/RAG-P) — Retrieval-Augmented Generation using ChromaDB and Streamlit.
 - 🔗 [Startup Idea Validator](https://github.com/harshitha1189/startup-idea-validator) — Validates startup ideas with LLMs and user input.
-- 🔗 [Smart Career Counselor](https://github.com/harshitha1189/smart-career-counselor) — Resume parser + career path recommender using SkillCaptain API.
+
 
 ---
 
