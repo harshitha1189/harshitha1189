@@ -1,36 +1,35 @@
-<h1 align="center">Hi there, I'm Sri Harshitha 👋</h1>
+<h1 align="center">Hi, I'm Sri Harshitha 👋</h1>
 
 <p align="center">
   <b>💻 Developer | 📊 Data Enthusiast | 🎯 ECE Student</b><br>
-  Passionate about merging electronics with intelligent software solutions through Web Development, Data Science, and AI.
+  Passionate about blending electronics with intelligent software through Web Development, Data Science, and AI.
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm an Electronics and Communication Engineering (ECE) student with a strong interest in software development and intelligent systems.
-- 🌐 Currently working on: **Smart Career Counselor** (Streamlit + ChromaDB + SkillCaptain API)
-- 📬 Building: **Mass-Mail Dispatcher** (React + EmailJS)
-- 💡 Exploring: **Retrieval-Augmented Generation (RAG)** + Local LLMs
-- ✍️ I also enjoy writing resumes, editing reels, and watching movies!
+## 🚀 About Me
+- 🎓 Electronics and Communication Engineering student passionate about **software development** and **intelligent systems**.
+- 🌐 Currently building: **django-smartrecco** — a smart recommendation system.
+- 📬 Also working on: **email-validator-sender-react** — automated email validation & bulk sending.
+- 💡 Exploring: **Retrieval-Augmented Generation (RAG)** + local LLMs.
+- 🎥 Outside of coding: crafting resumes, editing reels, and watching movies.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,express,mongodb,tailwind,django,git,github)
 
+---
+
+## 📌 Featured Projects
+- 🔗 [**django-smartrecco**](https://github.com/harshitha1189/django-smartrecco) — Recommendation system built with Django for delivering smart, personalized suggestions.
+- 🔗 [**startup-idea-validator**](https://github.com/harshitha1189/startup-idea-validator) — Evaluates startup ideas using Retrieval-Augmented Generation (RAG) and LLMs.
+- 🔗 [**email-validator-sender-react**](https://github.com/harshitha1189/email-validator-sender-react) — React app that validates and sends bulk emails with live feedback and EmailJS.
+- 🔗 [**fixMyCode**](https://github.com/harshitha1189/fixMyCode) — AI-powered real-time code reviewer using React, Node.js, Express, and Google Gemini.
 
 ---
 
-### 📌 Pinned Projects
-- 🔗 [Mass Mail Dispatcher](https://github.com/harshitha1189/Mass-Mail-Dispatcher) — Send bulk emails with CSV import, validations, and live UI.
-- 🔗 [RAG-P](https://github.com/harshitha1189/RAG-P) — Retrieval-Augmented Generation using ChromaDB and Streamlit.
-- 🔗 [Startup Idea Validator](https://github.com/harshitha1189/startup-idea-validator) — Validates startup ideas with LLMs and user input.
-
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitha1189&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha1189&theme=radical" width="45%" />
@@ -38,13 +37,13 @@
 
 ---
 
-### 📫 Connect with Me
-- 📧 Email: [sreeharshitha1189@gmail.com](mailto:sreeharshitha1189@gmail.com)
-- 🌐 GitHub: [github.com/harshitha1189](https://github.com/harshitha1189)
-- 💼 LinkedIn: [linkedin.com/in/nallisriharshitha](https://www.linkedin.com/in/nallisriharshitha)
+## 📫 Connect with Me
+- 📧 [sreeharshitha1189@gmail.com](mailto:sreeharshitha1189@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nallisriharshitha)
+- 🌐 [GitHub](https://github.com/harshitha1189)
 
 ---
 
 <p align="center">
-  ✨ *Thanks for visiting my profile!* ✨  
+  ✨ Thanks for visiting my profile! ✨  
 </p>
