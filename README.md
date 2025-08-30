@@ -1,19 +1,31 @@
-<h1 align="center">Hi, I'm Sri Harshitha 👋</h1>
+
+
+<h1 align="center">
+  Hi, I'm Sri Harshitha 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+</h1>
 
 <p align="center">
-  <b>💻 Software Developer | 📊 Data Enthusiast | 🎯 ECE Student @ NIT Silchar</b><br>
-  Passionate about building scalable systems, intelligent applications, and blending electronics with AI.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer+💻;Data+Enthusiast+📊;ECE+Student+@+NIT+Silchar" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Passionate about building <b>scalable systems</b>, <b>intelligent applications</b>, <br>
+  and blending <b>electronics with AI</b>.
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **ECE Undergrad @ NIT Silchar (2022–26)**  
-- 🌐 Exploring **RAG (Retrieval-Augmented Generation)**, **LLMs**, and **real-time recommendation engines**  
-- 🎯 Strong in **DSA, full-stack development, and system design fundamentals**  
-- 🎥 Outside code: editing reels, crafting resumes, badminton, and movies  
+- 🤖 Exploring **RAG (Retrieval-Augmented Generation)**, **LLMs**, and **real-time recommendation engines**  
+- 💡 Strong in **DSA, full-stack development, and system design fundamentals**  
+- 🎬 Outside code: **editing reels**, **crafting resumes**, **badminton**, and **movies**  
 
 ---
+
+
+
 
 ## 🛠 Tech Stack  
 
@@ -51,8 +63,9 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshitha1189/harshitha1189/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/harshitha1189/harshitha1189/output/snake-green.svg" alt="snake animation"/>
 </p>
+
 
 
 
