@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **ECE Undergrad @ NIT Silchar (2022–26)**   
-- 🌐 Exploring **RAG (Retrieval-Augmented Generation)**, **LLMs**, and **real-time recommendation engines**.  
-- 🎯 Strong in **DSA, full-stack development, and system design fundamentals**.  
-- 🎥 Outside code: editing reels, crafting resumes, badminton, and movies.  
+- 🎓 **ECE Undergrad @ NIT Silchar (2022–26)**  
+- 🌐 Exploring **RAG (Retrieval-Augmented Generation)**, **LLMs**, and **real-time recommendation engines**  
+- 🎯 Strong in **DSA, full-stack development, and system design fundamentals**  
+- 🎥 Outside code: editing reels, crafting resumes, badminton, and movies  
 
 ---
 
@@ -36,10 +36,10 @@
 ---
 
 ## 📌 Featured Projects
-- 🔗 [**django-smartrecco**](https://github.com/harshitha1189/django-smartrecco) — Real-time recommendation engine with RAG + Django.  
-- 🔗 [**fixMyCode**](https://github.com/harshitha1189/fixMyCode) — AI-powered code reviewer (React + Node.js + Google Gemini API).  
-- 🔗 [**startup-idea-validator**](https://github.com/harshitha1189/startup-idea-validator) — Evaluates startup ideas with LLMs.  
-- 🔗 [**email-validator-sender-react**](https://github.com/harshitha1189/email-validator-sender-react) — Bulk email sender with live validation + EmailJS.  
+- 🔗 [**django-smartrecco**](https://github.com/harshitha1189/django-smartrecco) — Real-time recommendation engine with RAG + Django  
+- 🔗 [**fixMyCode**](https://github.com/harshitha1189/fixMyCode) — AI-powered code reviewer (React + Node.js + Google Gemini API)  
+- 🔗 [**startup-idea-validator**](https://github.com/harshitha1189/startup-idea-validator) — Evaluates startup ideas with LLMs  
+- 🔗 [**email-validator-sender-react**](https://github.com/harshitha1189/email-validator-sender-react) — Bulk email sender with live validation + EmailJS  
 
 ---
 
@@ -50,8 +50,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitha1189&theme=radical" width="95%" />
+  <img src="https://raw.githubusercontent.com/harshitha1189/harshitha1189/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha1189&layout=compact&theme=radical" width="45%" />
@@ -64,9 +66,12 @@
 ---
 
 ## 🏆 Achievements & Highlights
-- 🌟 **Solved 200+ DSA problems** on LeetCode, Coding Ninjas, and CodeChef.  
-- 👩‍💻 **GSSoC ’25 Contributor** – Contributing to open-source projects.   
-- ⚡ **Hands-on experience on Full-Stack projects**, including RAG-powered apps & real-time systems.  
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-200+_problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenSource-GSSoC'25_Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Enthusiast-yellow?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</p>
 
 ---
 
