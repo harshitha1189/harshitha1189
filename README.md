@@ -49,9 +49,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha1189&theme=radical" width="45%" />
 </p>
 
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitha1189&bg_color=0D1117&color=E4E2E2&line=F85D7F&point=F8D847&area=true&hide_border=true" width="95%"/>
+  <img src="https://raw.githubusercontent.com/harshitha1189/harshitha1189/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 
 
