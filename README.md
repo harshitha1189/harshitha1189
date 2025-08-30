@@ -1,49 +1,84 @@
 <h1 align="center">Hi, I'm Sri Harshitha 👋</h1>
 
 <p align="center">
-  <b>💻 Developer | 📊 Data Enthusiast | 🎯 ECE Student</b><br>
-  Passionate about blending electronics with intelligent software through Web Development, Data Science, and AI.
+  <b>💻 Software Developer | 📊 Data Enthusiast | 🎯 ECE Student @ NIT Silchar</b><br>
+  Passionate about building scalable systems, intelligent applications, and blending electronics with AI.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Electronics and Communication Engineering student passionate about **software development** and **intelligent systems**.
-- 🌐 Currently building: **django-smartrecco** — a smart recommendation system.
-- 📬 Also working on: **email-validator-sender-react** — automated email validation & bulk sending.
-- 💡 Exploring: **Retrieval-Augmented Generation (RAG)** + local LLMs.
-- 🎥 Outside of coding: crafting resumes, editing reels, and watching movies.
+- 🎓 **ECE Undergrad @ NIT Silchar (2022–26)**   
+- 🌐 Exploring **RAG (Retrieval-Augmented Generation)**, **LLMs**, and **real-time recommendation engines**.  
+- 🎯 Strong in **DSA, full-stack development, and system design fundamentals**.  
+- 🎥 Outside code: editing reels, crafting resumes, badminton, and movies.  
 
 ---
 
-## 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,express,mongodb,tailwind,django,git,github)
+## 🛠 Tech Stack  
+
+<p align="center">
+
+### 👩‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css" />
+
+### ⚙️ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,bootstrap,tailwind" />
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### 🔧 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
 
 ---
 
 ## 📌 Featured Projects
-- 🔗 [**django-smartrecco**](https://github.com/harshitha1189/django-smartrecco) — Recommendation system built with Django for delivering smart, personalized suggestions.
-- 🔗 [**startup-idea-validator**](https://github.com/harshitha1189/startup-idea-validator) — Evaluates startup ideas using Retrieval-Augmented Generation (RAG) and LLMs.
-- 🔗 [**email-validator-sender-react**](https://github.com/harshitha1189/email-validator-sender-react) — React app that validates and sends bulk emails with live feedback and EmailJS.
-- 🔗 [**fixMyCode**](https://github.com/harshitha1189/fixMyCode) — AI-powered real-time code reviewer using React, Node.js, Express, and Google Gemini.
+- 🔗 [**django-smartrecco**](https://github.com/harshitha1189/django-smartrecco) — Real-time recommendation engine with RAG + Django.  
+- 🔗 [**fixMyCode**](https://github.com/harshitha1189/fixMyCode) — AI-powered code reviewer (React + Node.js + Google Gemini API).  
+- 🔗 [**startup-idea-validator**](https://github.com/harshitha1189/startup-idea-validator) — Evaluates startup ideas with LLMs.  
+- 🔗 [**email-validator-sender-react**](https://github.com/harshitha1189/email-validator-sender-react) — Bulk email sender with live validation + EmailJS.  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitha1189&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha1189&theme=radical" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitha1189&theme=radical" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha1189&layout=compact&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitha1189&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+- 🌟 **Solved 200+ DSA problems** on LeetCode, Coding Ninjas, and CodeChef.  
+- 👩‍💻 **GSSoC ’25 Contributor** – Contributing to open-source projects.   
+- ⚡ **Hands-on experience on Full-Stack projects**, including RAG-powered apps & real-time systems.  
+
 ---
 
 ## 📫 Connect with Me
-- 📧 [sreeharshitha1189@gmail.com](mailto:sreeharshitha1189@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nallisriharshitha)
-- 🌐 [GitHub](https://github.com/harshitha1189)
+<p align="center">
+  <a href="mailto:sreeharshitha1189@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nallisriharshitha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/harshitha1189"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  ✨ Thanks for visiting my profile! ✨  
+  ✨ Thanks for stopping by! Let’s build something impactful together. ✨  
 </p>
