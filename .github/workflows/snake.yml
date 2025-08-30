@@ -9,13 +9,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # <-- important: allows pushing to branches
+      contents: write
     steps:
-      - name: Generate snake animation
+      - name: Generate green snake graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: harshitha1189
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/snake-green.svg
+          # Colors
+          palette: "#00FF00 #00AA00 #006600 #003300"   # light green → dark green
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
