@@ -18,7 +18,10 @@ jobs:
           outputs: |
             dist/snake-green.svg
           # Colors
-          palette: "#00FF00 #00AA00 #006600 #003300"   # light green → dark green
+          palette: "#00FF00 #00AA00 #006600 #003300"   # snake & contribution shades
+          color_snake: "#00FF00"                       # snake itself = neon green
+          color_dots: "#00FF00,#009900,#004d00,#002200" # contribution dots gradient
+          color_bg: "#001a00"                          # background = deep green
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
