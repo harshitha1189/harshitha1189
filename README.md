@@ -9,7 +9,7 @@
 - Undergraduate student in **Electronics and Communication Engineering** at **NIT Silchar (2022–26)**.  
 - Currently exploring **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and **real-time recommendation engines**.  
 - Strong foundation in **Data Structures & Algorithms, Full-Stack Development, and System Design fundamentals**.  
-- Hands-on experience with projects involving **React, Node.js, Django, Spring Boot, and AI/ML integration**.  
+- Hands-on experience with projects involving **React, Node.js, Django**.  
 - Outside coding: I enjoy **editing reels, crafting resumes, playing badminton, and movies**.  
 
 ---
