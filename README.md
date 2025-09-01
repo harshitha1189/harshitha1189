@@ -17,7 +17,7 @@
 ## 📌 Featured Projects
   
 - 🔗 [**fixMyCode**](https://github.com/harshitha1189/fixMyCode) — AI-powered code reviewer (React + Node.js + Google Gemini API).
-- - 🔗 [**django-smartrecco**](https://github.com/harshitha1189/django-smartrecco) — Real-time recommendation engine with RAG + Django.
+- 🔗 [**django-smartrecco**](https://github.com/harshitha1189/django-smartrecco) — Real-time recommendation engine with RAG + Django.
 - 🔗 [**startup-idea-validator**](https://github.com/harshitha1189/startup-idea-validator) — Evaluates startup ideas with LLMs.  
 - 🔗 [**email-validator-sender-react**](https://github.com/harshitha1189/email-validator-sender-react) — Bulk email sender with live validation + EmailJS.  
 
