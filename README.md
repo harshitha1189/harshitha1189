@@ -73,13 +73,13 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitha1189&theme=github_dark" width="95%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitha1189&theme=github_dark" width="95%" alt="Profile Details" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha1189&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" width="48%" alt="Top Languages by Percentage" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitha1189&theme=github_dark" width="48%" alt="Productive Time" />
-</p>
+  <img src="https
+
 
 
 ---
